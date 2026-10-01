@@ -58,6 +58,11 @@ Claude Code를 규칙 아래에서 운영합니다 (설정 코드 비공개)
 ## Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&amp;lt;LG CNS 6기] 33일차 TIL &amp;mdash; 스프링 &amp;mdash; Redis&amp;middot;Spring Security&amp;middot;BCrypt](https://bapzzi.tistory.com/32)
+- [&amp;lt;LG CNS 6기] 32일차 TIL &amp;mdash; DevOps 특강](https://bapzzi.tistory.com/31)
+- [&amp;lt;LG CNS 6기] 31일차 TIL &amp;mdash; 자바 &amp;mdash; Filter&amp;middot;JWT&amp;middot;DTO 변환](https://bapzzi.tistory.com/30)
+- [&amp;lt;LG CNS 6기] 30일차 TIL &amp;mdash; 자바 &amp;mdash; JPA 엔티티&amp;middot;연관관계&amp;middot;JpaRepository](https://bapzzi.tistory.com/29)
+- [&amp;lt;LG CNS 6기] 29일차 TIL &amp;mdash; 자바 &amp;mdash; 유효성 검사&amp;middot;전역 예외 처리&amp;middot;에러 메시지 화면 표시](https://bapzzi.tistory.com/28)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
