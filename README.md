@@ -1,7 +1,5 @@
 <div align="center">
 
-# 신해원 · Shin Haewon
-
 **반복되는 일을 도구로 바꾸고, 그 안의 AI가 검증된 범위에서만 일하게 만듭니다**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://shw-portfolio.vercel.app)
@@ -9,17 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:win737449@gmail.com)
 
 </div>
-
-## How I Work
-
-```mermaid
-flowchart LR
-  A[반복되는 업무 찾기] --> B[맡길 일과 막을 일 정하기<br/>규칙 · 검증]
-  B --> C[AI로 빠르게 구현<br/>Claude Code]
-  C --> D[실사용자에게 배포]
-  D --> E[사용 기록으로 개선]
-  E --> B
-```
 
 ## Projects
 
