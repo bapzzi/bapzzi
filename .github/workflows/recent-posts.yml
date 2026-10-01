@@ -22,4 +22,6 @@ jobs:
           accept_header: "*/*"
           # Tistory titles are already entity-encoded; encoding again shows "&lt;" literally
           disable_html_encoding: true
+          # Titles contain "]" which breaks markdown links, so emit HTML links
+          template: '<a href="$url">$title</a><br/>$newline'
           commit_message: "chore: update recent posts"
