@@ -20,4 +20,6 @@ jobs:
           max_post_count: 5
           # Tistory answers 406 to "application/rss+xml"; "*/*" returns the feed
           accept_header: "*/*"
+          # Tistory titles are already entity-encoded; encoding again shows "&lt;" literally
+          disable_html_encoding: true
           commit_message: "chore: update recent posts"
