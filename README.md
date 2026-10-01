@@ -4,7 +4,7 @@
 </p>
 
 > Turning repetitive work into tools, and keeping the AI inside them verifiable.  
-> DX · ERP (SAP) · AI agents & automation
+> AX · ERP (SAP) · AI agents & automation
 
 ---
 
