@@ -36,11 +36,11 @@
 
 ### ✍️ Recent TIL
 
-<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/32">&lt;LG CNS 6기] 33일차 TIL &mdash; 스프링 &mdash; Redis&middot;Spring Security&middot;BCrypt</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/33">&lt;LG CNS 6기] MSA 1일차 TIL &middot; 마이크로서비스와 Spring Cloud</a><br/>
+<a href="https://bapzzi.tistory.com/32">&lt;LG CNS 6기] 33일차 TIL &mdash; 스프링 &mdash; Redis&middot;Spring Security&middot;BCrypt</a><br/>
 <a href="https://bapzzi.tistory.com/31">&lt;LG CNS 6기] 32일차 TIL &mdash; DevOps 특강</a><br/>
 <a href="https://bapzzi.tistory.com/30">&lt;LG CNS 6기] 31일차 TIL &mdash; 자바 &mdash; Filter&middot;JWT&middot;DTO 변환</a><br/>
 <a href="https://bapzzi.tistory.com/29">&lt;LG CNS 6기] 30일차 TIL &mdash; 자바 &mdash; JPA 엔티티&middot;연관관계&middot;JpaRepository</a><br/>
-<a href="https://bapzzi.tistory.com/28">&lt;LG CNS 6기] 29일차 TIL &mdash; 자바 &mdash; 유효성 검사&middot;전역 예외 처리&middot;에러 메시지 화면 표시</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
