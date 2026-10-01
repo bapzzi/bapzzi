@@ -18,4 +18,6 @@ jobs:
         with:
           feed_list: "https://bapzzi.tistory.com/rss"
           max_post_count: 5
+          # Tistory answers 406 to "application/rss+xml"; "*/*" returns the feed
+          accept_header: "*/*"
           commit_message: "chore: update recent posts"
