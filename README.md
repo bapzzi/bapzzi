@@ -1,5 +1,4 @@
 <p align="left">
-  <a href="https://shw-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://bapzzi.tistory.com"><img src="https://img.shields.io/badge/TIL_Blog-EB531F?style=for-the-badge&logo=tistory&logoColor=white" alt="TIL Blog" /></a>
   <a href="mailto:win737449@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
