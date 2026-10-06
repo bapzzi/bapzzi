@@ -36,11 +36,11 @@
 
 ### ✍️ Recent TIL
 
-<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/34">&lt;LG CNS 6기] MSA 2일차 TIL &middot; Service Discovery와 Eureka</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/35">&lt;LG CNS 6기] MSA 3일차 TIL &middot; API Gateway와 Filter</a><br/>
+<a href="https://bapzzi.tistory.com/34">&lt;LG CNS 6기] MSA 2일차 TIL &middot; Service Discovery와 Eureka</a><br/>
 <a href="https://bapzzi.tistory.com/33">&lt;LG CNS 6기] MSA 1일차 TIL &middot; 마이크로서비스와 Spring Cloud</a><br/>
 <a href="https://bapzzi.tistory.com/32">&lt;LG CNS 6기] 33일차 TIL &mdash; 스프링 &mdash; Redis&middot;Spring Security&middot;BCrypt</a><br/>
 <a href="https://bapzzi.tistory.com/31">&lt;LG CNS 6기] 32일차 TIL &mdash; DevOps 특강</a><br/>
-<a href="https://bapzzi.tistory.com/30">&lt;LG CNS 6기] 31일차 TIL &mdash; 자바 &mdash; Filter&middot;JWT&middot;DTO 변환</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
