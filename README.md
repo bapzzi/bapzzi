@@ -36,11 +36,11 @@
 
 ### ✍️ Recent TIL
 
-<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/37">&lt;LG CNS 6기] MSA 5일차 TIL &middot; JWT 로그인과 Config Server</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/38">&lt;LG CNS 6기] MSA 6일차 TIL &middot; Spring Cloud Bus와 설정 암호화</a><br/>
+<a href="https://bapzzi.tistory.com/37">&lt;LG CNS 6기] MSA 5일차 TIL &middot; JWT 로그인과 Config Server</a><br/>
 <a href="https://bapzzi.tistory.com/36">&lt;LG CNS 6기] MSA 4일차 TIL &middot; 서비스 분리와 회원 서비스</a><br/>
 <a href="https://bapzzi.tistory.com/35">&lt;LG CNS 6기] MSA 3일차 TIL &middot; API Gateway와 Filter</a><br/>
 <a href="https://bapzzi.tistory.com/34">&lt;LG CNS 6기] MSA 2일차 TIL &middot; Service Discovery와 Eureka</a><br/>
-<a href="https://bapzzi.tistory.com/33">&lt;LG CNS 6기] MSA 1일차 TIL &middot; 마이크로서비스와 Spring Cloud</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
