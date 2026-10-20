@@ -36,11 +36,11 @@
 
 ### ✍️ Recent TIL
 
-<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/41">&lt;LG CNS 6기] MSA 9일차 TIL &middot; CircuitBreaker와 분산 추적</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/42">&lt;LG CNS 6기] MSA 10일차 TIL &middot; Prometheus와 Grafana 모니터링</a><br/>
+<a href="https://bapzzi.tistory.com/41">&lt;LG CNS 6기] MSA 9일차 TIL &middot; CircuitBreaker와 분산 추적</a><br/>
 <a href="https://bapzzi.tistory.com/40">&lt;LG CNS 6기] MSA 8일차 TIL &middot; Kafka로 재고 맞추기</a><br/>
 <a href="https://bapzzi.tistory.com/39">&lt;LG CNS 6기] MSA 7일차 TIL &middot; 서비스 간 통신과 Feign</a><br/>
 <a href="https://bapzzi.tistory.com/38">&lt;LG CNS 6기] MSA 6일차 TIL &middot; Spring Cloud Bus와 설정 암호화</a><br/>
-<a href="https://bapzzi.tistory.com/37">&lt;LG CNS 6기] MSA 5일차 TIL &middot; JWT 로그인과 Config Server</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
