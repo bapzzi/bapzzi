@@ -36,11 +36,11 @@
 
 ### ✍️ Recent TIL
 
-<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/43">&lt;LG CNS 6기] MSA II 1일차 TIL &middot; Docker 환경 구성과 기본 명령</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/45">&lt;LG CNS 6기] MSA II 3일차 TIL &middot; 컨테이너 네트워크와 이미지 옮기기</a><br/>
+<a href="https://bapzzi.tistory.com/44">&lt;LG CNS 6기] MSA II 2일차 TIL &middot; Dockerfile과 이미지 배포</a><br/>
+<a href="https://bapzzi.tistory.com/43">&lt;LG CNS 6기] MSA II 1일차 TIL &middot; Docker 환경 구성과 기본 명령</a><br/>
 <a href="https://bapzzi.tistory.com/42">&lt;LG CNS 6기] MSA 10일차 TIL &middot; Prometheus와 Grafana 모니터링</a><br/>
 <a href="https://bapzzi.tistory.com/41">&lt;LG CNS 6기] MSA 9일차 TIL &middot; CircuitBreaker와 분산 추적</a><br/>
-<a href="https://bapzzi.tistory.com/40">&lt;LG CNS 6기] MSA 8일차 TIL &middot; Kafka로 재고 맞추기</a><br/>
-<a href="https://bapzzi.tistory.com/39">&lt;LG CNS 6기] MSA 7일차 TIL &middot; 서비스 간 통신과 Feign</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
