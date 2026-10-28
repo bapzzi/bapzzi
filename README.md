@@ -36,11 +36,11 @@
 
 ### ✍️ Recent TIL
 
-<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/45">&lt;LG CNS 6기] MSA II 3일차 TIL &middot; 컨테이너 네트워크와 이미지 옮기기</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://bapzzi.tistory.com/48">&lt;LG CNS 6기] MSA II 6일차 TIL &middot; 컨트롤러와 라벨, 롤링 업데이트, Service 타입</a><br/>
+<a href="https://bapzzi.tistory.com/47">&lt;LG CNS 6기] MSA II 5일차 TIL &middot; 파드와 Deployment, Service와 MetalLB</a><br/>
+<a href="https://bapzzi.tistory.com/46">&lt;LG CNS 6기] MSA II 4일차 TIL &middot; 이미지 저장소와 쿠버네티스 클러스터 구성</a><br/>
+<a href="https://bapzzi.tistory.com/45">&lt;LG CNS 6기] MSA II 3일차 TIL &middot; 컨테이너 네트워크와 이미지 옮기기</a><br/>
 <a href="https://bapzzi.tistory.com/44">&lt;LG CNS 6기] MSA II 2일차 TIL &middot; Dockerfile과 이미지 배포</a><br/>
-<a href="https://bapzzi.tistory.com/43">&lt;LG CNS 6기] MSA II 1일차 TIL &middot; Docker 환경 구성과 기본 명령</a><br/>
-<a href="https://bapzzi.tistory.com/42">&lt;LG CNS 6기] MSA 10일차 TIL &middot; Prometheus와 Grafana 모니터링</a><br/>
-<a href="https://bapzzi.tistory.com/41">&lt;LG CNS 6기] MSA 9일차 TIL &middot; CircuitBreaker와 분산 추적</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
